@@ -1,1 +1,1 @@
-{"runId": "1eca3736-5700-11ee-b924-b2c5e8689c74", "workflowId": "DataPipelineWorkflow", "aplicationId": "S_PARTY_ORACLE_TO_GCS_TI", "type_error": "errore_cuota", "namesPace": "proto_ingesta_oracle_n1", "periodo":"2023751069#"}
+{"runId": "1eca3736-5700-11ee-b924-b2c5e8689c74", "workflowId": "DataPipelineWorkflow", "aplicationId": "S_PARTY_ORACLE_TO_GCS_TI", "type_error": "errore_cuota", "namesPace": "proto_ingesta_oracle_n1", "periodo":"2023751085647"}
